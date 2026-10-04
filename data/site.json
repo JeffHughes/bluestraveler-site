@@ -1,0 +1,864 @@
+{
+ "generatedUtc": "2026-10-04T20:35:13.367Z",
+ "sources": {
+  "tour": {
+   "ok": true,
+   "pulledUtc": "2026-10-04T20:35:13.367Z"
+  },
+  "vault": {
+   "ok": true,
+   "pulledUtc": "2026-10-04T20:35:13.367Z"
+  },
+  "albums": {
+   "ok": true,
+   "pulledUtc": "2026-10-04T20:35:13.367Z"
+  },
+  "pricing": {
+   "ok": true,
+   "pulledUtc": "2026-10-04T20:35:13.367Z"
+  }
+ },
+ "tour": [
+  {
+   "id": "8f6e8660-5924-4f81-b057-69729755d54a",
+   "date": "2026-10-09",
+   "venue": "Sound Bites Music & Food Festival ",
+   "where": "Gilbert, AZ",
+   "details": null,
+   "soldOut": false,
+   "tickets": "https://link.seated.com/8f6e8660-5924-4f81-b057-69729755d54a"
+  },
+  {
+   "id": "5b38fd5e-f54b-481a-9d8d-f20dbf11cced",
+   "date": "2026-10-10",
+   "venue": "Morongo Casino",
+   "where": "Cabazon, CA",
+   "details": null,
+   "soldOut": false,
+   "tickets": "https://link.seated.com/5b38fd5e-f54b-481a-9d8d-f20dbf11cced"
+  },
+  {
+   "id": "bb36b49e-a761-49a2-a7d2-ffcb0d0a7fb4",
+   "date": "2026-10-11",
+   "venue": "Bel-Aire Backyard",
+   "where": "Las Vegas, NV",
+   "details": null,
+   "soldOut": false,
+   "tickets": "https://link.seated.com/bb36b49e-a761-49a2-a7d2-ffcb0d0a7fb4"
+  },
+  {
+   "id": "1dd0a2ed-5089-4a09-9e8d-43cb3f80a141",
+   "date": "2026-10-29",
+   "venue": "The Guild Theatre",
+   "where": "Menlo Park, CA",
+   "details": null,
+   "soldOut": false,
+   "tickets": "https://link.seated.com/1dd0a2ed-5089-4a09-9e8d-43cb3f80a141"
+  },
+  {
+   "id": "41a940f5-125b-46f3-9e69-6ca86840c4ae",
+   "date": "2026-10-30",
+   "venue": "The Guild Theatre",
+   "where": "Menlo Park, CA",
+   "details": null,
+   "soldOut": false,
+   "tickets": "https://link.seated.com/41a940f5-125b-46f3-9e69-6ca86840c4ae"
+  }
+ ],
+ "vault": {
+  "nights": 213,
+  "firstYear": 1989,
+  "lastYear": 2026,
+  "asOfUtc": "2026-10-04T20:35:12Z",
+  "shows": [
+   {
+    "slug": "1992-05-12-colorado-springs-co",
+    "date": "1992-05-12",
+    "venue": "Rack & Roll",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T18:37:54Z"
+   },
+   {
+    "slug": "1991-12-01-new-orleans-la",
+    "date": "1991-12-01",
+    "venue": "New Orleans Entertainment Hall",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T16:21:54Z"
+   },
+   {
+    "slug": "1991-11-21-memphis-tn",
+    "date": "1991-11-21",
+    "venue": "Omni New Daisy Theatre",
+    "city": "Memphis",
+    "state": "TN",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T16:17:52Z"
+   },
+   {
+    "slug": "1991-10-27-burlington-vt",
+    "date": "1991-10-27",
+    "venue": "Memorial Auditorium",
+    "city": "Burlington",
+    "state": "VT",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T16:05:19Z"
+   },
+   {
+    "slug": "1991-08-15-new-york-ny",
+    "date": "1991-08-15",
+    "venue": "Wetlands Preserve",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T16:05:17Z"
+   },
+   {
+    "slug": "1990-09-11-ithaca-ny",
+    "date": "1990-09-11",
+    "venue": "The Haunt",
+    "city": "Ithaca",
+    "state": "NY",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T12:47:48Z"
+   },
+   {
+    "slug": "1991-08-03-warwick-ri",
+    "date": "1991-08-03",
+    "venue": "Rocky Point Amusement Park",
+    "city": "Warwick",
+    "state": "RI",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T12:37:40Z"
+   },
+   {
+    "slug": "1990-08-23-new-york-ny",
+    "date": "1990-08-23",
+    "venue": "Wetlands Preserve",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T10:01:18Z"
+   },
+   {
+    "slug": "1990-05-03-ithaca-ny",
+    "date": "1990-05-03",
+    "venue": "Theta Delta Chi, Cornell University",
+    "city": "Ithaca",
+    "state": "NY",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T08:18:34Z"
+   },
+   {
+    "slug": "1989-12-30-sacramento-ca",
+    "date": "1989-12-30",
+    "venue": "Arco Arena (Power Balance Pavilion)",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T07:08:28Z"
+   },
+   {
+    "slug": "1989-11-29-salem-va",
+    "date": "1989-11-29",
+    "venue": "The Barrel House",
+    "city": "Salem",
+    "state": "VA",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T07:01:41Z"
+   },
+   {
+    "slug": "1989-10-29-ithaca-ny",
+    "date": "1989-10-29",
+    "venue": "Theta Delta Chi, Cornell University",
+    "city": "Ithaca",
+    "state": "NY",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T06:58:19Z"
+   },
+   {
+    "slug": "1989-05-26-new-york-ny",
+    "date": "1989-05-26",
+    "venue": "Acme Underground",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T03:25:57Z"
+   },
+   {
+    "slug": "1997-08-11-holmdel-nj",
+    "date": "1997-08-11",
+    "venue": "PNC Bank Arts Center",
+    "city": "Holmdel",
+    "state": "NJ",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T02:23:18Z"
+   },
+   {
+    "slug": "1991-10-29-boston-ma",
+    "date": "1991-10-29",
+    "venue": "Orpheum Theatre",
+    "city": "Boston",
+    "state": "MA",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T00:21:28Z"
+   },
+   {
+    "slug": "1990-08-17-loveladies-nj",
+    "date": "1990-08-17",
+    "venue": "Long Beach Island Foundation of the Arts and Sciences",
+    "city": "Loveladies",
+    "state": "NJ",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T00:21:27Z"
+   },
+   {
+    "slug": "1997-08-29-berkeley-ca",
+    "date": "1997-08-29",
+    "venue": "Hearst Greek Theatre, University of California at Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T00:20:12Z"
+   },
+   {
+    "slug": "1994-08-31-wantagh-ny",
+    "date": "1994-08-31",
+    "venue": "Jones Beach Amphitheater (Nikon)",
+    "city": "Wantagh",
+    "state": "NY",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival",
+    "added": "2026-10-04T00:20:06Z"
+   },
+   {
+    "slug": "2022-08-06-rexford-mt",
+    "date": "2022-08-06",
+    "venue": "Abayance Bay",
+    "city": "Rexford",
+    "state": "MT",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T20:18:58Z"
+   },
+   {
+    "slug": "2022-08-04-worley-id",
+    "date": "2022-08-04",
+    "venue": "Coeur d'Alene Casino Resort Hotel",
+    "city": "Worley",
+    "state": "ID",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T20:14:07Z"
+   },
+   {
+    "slug": "2022-08-03-bend-or",
+    "date": "2022-08-03",
+    "venue": "Hayden Homes Amphitheater",
+    "city": "Bend",
+    "state": "OR",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T20:03:32Z"
+   },
+   {
+    "slug": "2022-07-31-mountain-view-ca",
+    "date": "2022-07-31",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-03T19:55:44Z"
+   },
+   {
+    "slug": "2022-08-02-seattle-wa",
+    "date": "2022-08-02",
+    "venue": "Climate Pledge Arena",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T19:48:24Z"
+   },
+   {
+    "slug": "2022-07-30-concord-ca",
+    "date": "2022-07-30",
+    "venue": "Concord Pavilion",
+    "city": "Concord",
+    "state": "CA",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-03T19:43:22Z"
+   },
+   {
+    "slug": "2022-07-29-irvine-ca",
+    "date": "2022-07-29",
+    "venue": "FivePoint Amphitheatre",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T19:40:20Z"
+   },
+   {
+    "slug": "2022-07-26-chula-vista-ca",
+    "date": "2022-07-26",
+    "venue": "North Island Credit Union Amphitheatre",
+    "city": "Chula Vista",
+    "state": "CA",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T19:33:02Z"
+   },
+   {
+    "slug": "2022-07-23-albuquerque-nm",
+    "date": "2022-07-23",
+    "venue": "Isleta Amphitheater",
+    "city": "Albuquerque",
+    "state": "NM",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T19:25:22Z"
+   },
+   {
+    "slug": "2022-07-21-the-woodlands-tx",
+    "date": "2022-07-21",
+    "venue": "Cynthia Woods Mitchell Pavilion",
+    "city": "The Woodlands",
+    "state": "TX",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-03T19:15:02Z"
+   },
+   {
+    "slug": "2022-07-20-dallas-tx",
+    "date": "2022-07-20",
+    "venue": "Dos Equis Pavilion",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T19:02:48Z"
+   },
+   {
+    "slug": "2022-07-19-austin-tx",
+    "date": "2022-07-19",
+    "venue": "Germania Insurance Amphitheater",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T18:56:48Z"
+   },
+   {
+    "slug": "2022-07-17-rogers-ar",
+    "date": "2022-07-17",
+    "venue": "Walmart AMP",
+    "city": "Rogers",
+    "state": "AR",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T18:48:11Z"
+   },
+   {
+    "slug": "2022-07-16-maryland-heights-mo",
+    "date": "2022-07-16",
+    "venue": "Hollywood Casino Amphitheatre",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T18:41:31Z"
+   },
+   {
+    "slug": "2022-07-13-noblesville-in",
+    "date": "2022-07-13",
+    "venue": "Ruoff Home Mortgage Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T18:36:09Z"
+   },
+   {
+    "slug": "2022-07-12-clarkston-mi",
+    "date": "2022-07-12",
+    "venue": "Pine Knob Music Theatre",
+    "city": "Clarkston",
+    "state": "MI",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-03T18:19:15Z"
+   },
+   {
+    "slug": "2022-07-10-toronto-on",
+    "date": "2022-07-10",
+    "venue": "Budweiser Stage",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "eventName": null,
+    "added": "2026-10-03T04:31:53Z"
+   },
+   {
+    "slug": "2022-07-07-gilford-nh",
+    "date": "2022-07-07",
+    "venue": "Bank of New Hampshire Pavilion at Meadowbrook",
+    "city": "Gilford",
+    "state": "NH",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T04:28:46Z"
+   },
+   {
+    "slug": "2022-07-02-virginia-beach-va",
+    "date": "2022-07-02",
+    "venue": "Veterans United Home Loans Amphitheater at Virginia Beach",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T04:25:26Z"
+   },
+   {
+    "slug": "2022-07-01-raleigh-nc",
+    "date": "2022-07-01",
+    "venue": "Coastal Credit Union Music Park at Walnut Creek",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T04:22:31Z"
+   },
+   {
+    "slug": "2022-06-30-charlotte-nc",
+    "date": "2022-06-30",
+    "venue": "PNC Music Pavilion",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T04:17:56Z"
+   },
+   {
+    "slug": "2022-06-28-atlanta-ga",
+    "date": "2022-06-28",
+    "venue": "Cellairis Amphitheatre at Lakewood",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T04:16:57Z"
+   },
+   {
+    "slug": "2022-06-26-jacksonville-fl",
+    "date": "2022-06-26",
+    "venue": "Daily's Place Amphitheater",
+    "city": "Jacksonville",
+    "state": "FL",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T04:13:08Z"
+   },
+   {
+    "slug": "2022-06-25-tampa-fl",
+    "date": "2022-06-25",
+    "venue": "MidFlorida Credit Union Amphitheatre",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T04:09:17Z"
+   },
+   {
+    "slug": "2022-06-24-west-palm-beach-fl",
+    "date": "2022-06-24",
+    "venue": "iTHINK Financial Amphitheatre",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T04:06:13Z"
+   },
+   {
+    "slug": "2022-06-21-nashville-tn",
+    "date": "2022-06-21",
+    "venue": "Ascend Amphitheater",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T03:28:36Z"
+   },
+   {
+    "slug": "2022-06-19-cincinnati-oh",
+    "date": "2022-06-19",
+    "venue": "Riverbend Music Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-03T03:25:01Z"
+   },
+   {
+    "slug": "2022-06-18-cuyahoga-falls-oh",
+    "date": "2022-06-18",
+    "venue": "Blossom Music Center",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-03T03:22:47Z"
+   },
+   {
+    "slug": "2022-06-17-burgettstown-pa",
+    "date": "2022-06-17",
+    "venue": "The Pavilion at Star Lake",
+    "city": "Burgettstown",
+    "state": "PA",
+    "country": "US",
+    "eventName": null,
+    "added": "2026-10-03T03:20:19Z"
+   },
+   {
+    "slug": "2008-02-18-indio-ca",
+    "date": "2008-02-18",
+    "venue": "Aladdin Concert Pavilion",
+    "city": "Indio",
+    "state": "CA",
+    "country": null,
+    "eventName": "Riverside County Fair",
+    "added": "2026-10-03T03:02:47Z"
+   },
+   {
+    "slug": "2000-10-03-san-francisco-ca",
+    "date": "2000-10-03",
+    "venue": "Hyatt Embarcadero",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": null,
+    "eventName": "CompTel Private Party",
+    "added": "2026-10-03T02:54:01Z"
+   },
+   {
+    "slug": "2026-07-11-vancouver-bc",
+    "date": "2026-07-11",
+    "venue": "Hastings Park",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "eventName": null,
+    "added": "2026-10-01T11:21:03Z"
+   }
+  ]
+ },
+ "albums": [
+  {
+   "id": "alb-61HjwbPeZTesnKzkB2HPoN",
+   "slug": "blues-traveler-1990",
+   "title": "Blues Traveler",
+   "year": "1990",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273345c18acf14f0232239deb68"
+  },
+  {
+   "id": "alb-6Zit3CTXuMz0wa5TuTOdE9",
+   "slug": "travelers-and-thieves-1991",
+   "title": "Travelers & Thieves",
+   "year": "1991",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273693505ce5e8be292cb041ac4"
+  },
+  {
+   "id": "alb-16kW7XavGdn2iJ9QEkQmPU",
+   "slug": "save-his-soul-1993",
+   "title": "Save His Soul",
+   "year": "1993",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273112bceb9f44e4ca006ef6e45"
+  },
+  {
+   "id": "alb-5nNeSC4KNxT50MnliLuGRa",
+   "slug": "four-1994",
+   "title": "Four",
+   "year": "1994",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2734e2e887ee7656310cfa244f6"
+  },
+  {
+   "id": "alb-52LFpW06z2rStTaLi2lLdV",
+   "slug": "live-from-the-fall-1996",
+   "title": "Live From The Fall",
+   "year": "1996",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273dfa288475430759014388d75"
+  },
+  {
+   "id": "alb-3QfYKncxJvJjWKZanyAWHF",
+   "slug": "straight-on-till-morning-1997",
+   "title": "Straight On Till Morning",
+   "year": "1997",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2732fe77ec7f4edb1df76b14e1d"
+  },
+  {
+   "id": "alb-43pIKi7cDZd1odShXPIvaT",
+   "slug": "bridge-2001",
+   "title": "Bridge",
+   "year": "2001",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2738cdb9a84e0b30b28256b49cb"
+  },
+  {
+   "id": "alb-69SwF0mDuEyZr9MTOTvAon",
+   "slug": "truth-be-told-2003",
+   "title": "Truth Be Told",
+   "year": "2003",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273dbdff88966e35c0538c97cd9"
+  },
+  {
+   "id": "alb-7sHV9TmJaLZXV2QVtO4IiM",
+   "slug": "bastardos-2005",
+   "title": "!Bastardos!",
+   "year": "2005",
+   "cover": "https://i.scdn.co/image/ab67616d0000b27310f65f59e2eb9983bec31af6"
+  },
+  {
+   "id": "alb-6GfhEM9NB3Tdp5H1UCBOW3",
+   "slug": "north-hollywood-shootout-2008",
+   "title": "North Hollywood Shootout",
+   "year": "2008",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273464a8314eeae8b2bb94081da"
+  },
+  {
+   "id": "alb-4iWJviWQF6Jb9tQsdVJuJS",
+   "slug": "suzie-cracks-the-whip-2012",
+   "title": "Suzie Cracks the Whip",
+   "year": "2012",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273f46e721ee87e02c4a4e2676c"
+  },
+  {
+   "id": "alb-4c2ibJ30kYNcrIuSqWazIw",
+   "slug": "blow-up-the-moon-2015",
+   "title": "Blow Up The Moon",
+   "year": "2015",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2735b9a03643dc39a7fe4974bb0"
+  },
+  {
+   "id": "alb-1ITPPdrFoRCxVNinaWxCaE",
+   "slug": "hurry-up-and-hang-around-2018",
+   "title": "Hurry Up & Hang Around",
+   "year": "2018",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273a25f11a2f0eee5559d7ff05f"
+  },
+  {
+   "id": "alb-4qZssWithmdjNIlbve7XJ3",
+   "slug": "traveler-s-blues-2021",
+   "title": "Traveler's Blues",
+   "year": "2021",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273df57444c83c4c5af3a0d9d52"
+  },
+  {
+   "id": "alb-5vqWpNKeUOfzYTyoeQoCly",
+   "slug": "traveler-s-soul-2023",
+   "title": "Traveler's Soul",
+   "year": "2023",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273475213fedeb16355c6b35494"
+  },
+  {
+   "id": "alb-17cJOePq7S1q0tmQ7QMIIe",
+   "slug": "live-at-the-print-shop-2024",
+   "title": "Live at the Print Shop",
+   "year": "2024",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2731e624705a19e67049e50175d"
+  }
+ ],
+ "pricing": {
+  "version": 1,
+  "currency": "USD",
+  "updated": "2026-09-29",
+  "taxExclusive": true,
+  "plans": [
+   {
+    "id": "gold-monthly",
+    "sku": "sub-gold-monthly",
+    "planId": "pl-member",
+    "name": "Gold",
+    "tier": "gold",
+    "club": true,
+    "period": "monthly",
+    "priceCents": 999,
+    "stripeLookupKey": "rts_gold_monthly"
+   },
+   {
+    "id": "gold-annual",
+    "sku": "sub-gold-annual",
+    "planId": "pl-member",
+    "name": "Gold",
+    "tier": "gold",
+    "club": true,
+    "period": "annual",
+    "priceCents": 9999,
+    "stripeLookupKey": "rts_gold_yearly"
+   },
+   {
+    "id": "platinum-monthly",
+    "sku": "sub-platinum-monthly",
+    "planId": "pl-superfan",
+    "name": "Platinum",
+    "tier": "platinum",
+    "club": true,
+    "period": "monthly",
+    "priceCents": 1999,
+    "stripeLookupKey": "rts_platinum_monthly"
+   },
+   {
+    "id": "platinum-annual",
+    "sku": "sub-platinum-annual",
+    "planId": "pl-superfan",
+    "name": "Platinum",
+    "tier": "platinum",
+    "club": true,
+    "period": "annual",
+    "priceCents": 19999,
+    "stripeLookupKey": "rts_platinum_yearly"
+   },
+   {
+    "id": "music-basic-monthly",
+    "sku": "sub-music-basic-monthly",
+    "planId": "pl-music-basic",
+    "name": "Music Basic",
+    "tier": "gold",
+    "club": false,
+    "period": "monthly",
+    "priceCents": 399,
+    "stripeLookupKey": "rts_music_basic_monthly"
+   },
+   {
+    "id": "music-plus-monthly",
+    "sku": "sub-music-plus-monthly",
+    "planId": "pl-music-plus",
+    "name": "Music Plus",
+    "tier": "platinum",
+    "club": false,
+    "period": "monthly",
+    "priceCents": 599,
+    "stripeLookupKey": "rts_music_plus_monthly"
+   }
+  ],
+  "tokenPacks": [
+   {
+    "sku": "tokens-500",
+    "tokens": 500,
+    "priceCents": 499,
+    "stripeLookupKey": "rts_tokens_500"
+   },
+   {
+    "sku": "tokens-1500",
+    "tokens": 1500,
+    "priceCents": 1299,
+    "stripeLookupKey": "rts_tokens_1500"
+   },
+   {
+    "sku": "tokens-5000",
+    "tokens": 5000,
+    "priceCents": 3499,
+    "stripeLookupKey": "rts_tokens_5000"
+   }
+  ],
+  "show": {
+   "skuPrefix": "show-",
+   "priceCents": 1495,
+   "stripeLookupKey": "rts_single_show"
+  },
+  "appStore": {
+   "bundleId": "com.relivetheshow.blackcatclub",
+   "priceSetIn": "App Store Connect",
+   "priceNote": "The price a fan pays in the iPhone app is whatever App Store Connect has set, shown by StoreKit in the fan's own currency - never read from this file. intendedPriceCents is the price 2026-09-rts-ios-v1/scripts/ios-price-table.json (generated 2026-09-23 at a 30% commission) asks asc-create-products.mjs to set; as of 2026-09-23 that script had not run against Apple, so what App Store Connect holds today is not recorded here.",
+   "products": [
+    {
+     "productId": "com.relivetheshow.blackcatclub.gold.monthly",
+     "kind": "plan",
+     "sku": "sub-gold-monthly",
+     "priceCents": null,
+     "intendedPriceCents": 1499
+    },
+    {
+     "productId": "com.relivetheshow.blackcatclub.gold.annual",
+     "kind": "plan",
+     "sku": "sub-gold-annual",
+     "priceCents": null,
+     "intendedPriceCents": 14299
+    },
+    {
+     "productId": "com.relivetheshow.blackcatclub.platinum.monthly",
+     "kind": "plan",
+     "sku": "sub-platinum-monthly",
+     "priceCents": null,
+     "intendedPriceCents": 2899
+    },
+    {
+     "productId": "com.relivetheshow.blackcatclub.platinum.annual",
+     "kind": "plan",
+     "sku": "sub-platinum-annual",
+     "priceCents": null,
+     "intendedPriceCents": 28999
+    },
+    {
+     "productId": "com.relivetheshow.blackcatclub.show",
+     "kind": "show",
+     "sku": "show-",
+     "priceCents": null,
+     "intendedPriceCents": 2199
+    },
+    {
+     "productId": "com.relivetheshow.blackcatclub.tokens.500",
+     "kind": "tokens",
+     "sku": "tokens-500",
+     "priceCents": null,
+     "intendedPriceCents": 799
+    },
+    {
+     "productId": "com.relivetheshow.blackcatclub.tokens.1500",
+     "kind": "tokens",
+     "sku": "tokens-1500",
+     "priceCents": null,
+     "intendedPriceCents": 1899
+    },
+    {
+     "productId": "com.relivetheshow.blackcatclub.tokens.5000",
+     "kind": "tokens",
+     "sku": "tokens-5000",
+     "priceCents": null,
+     "intendedPriceCents": 4999
+    }
+   ]
+  },
+  "googlePlay": {
+   "priceSetIn": "Google Play Console",
+   "products": [],
+   "note": "No Google Play billing exists in the api or the web app today, so no Play product ids are listed. Add them here when Play billing is built."
+  },
+  "notes": [
+   "THE ONE PRICE FILE (Jeff 2026-09-29: 'ALL refs to prices should come from 1 json file somewhere on the site in assets'). Served at https://black-cat.club/assets/pricing.json.",
+   "Web reads it (src/app/checkout/pricing-catalog.ts imports it at build; PricingService re-reads the served copy). The api embeds this same file at build (Rts.Api.csproj EmbeddedResource, Services/PricingCatalog.cs). scripts/stripe-catalog.mjs sets Stripe's prices from it; scripts/check-prices.mjs compares it with Stripe TEST mode.",
+   "Prices are whole cents, in USD, before sales tax (taxExclusive: Stripe Tax adds tax at checkout, Jeff 2026-09-29). Tiers: HARD-RULES Rule 22. Single show: Rule 26 (Jeff wrote '$15'; 1495 is the committed value). Music-only: PRODUCT-MODEL section 1, monthly only. Token packs: Jeff 2026-09-23.",
+   "Token packs listed here are the priced packs; RTS_TOKEN_PACKS on the api still decides which of them are on sale.",
+   "Changing a price here does NOT change what Stripe charges: run scripts/stripe-catalog.mjs --apply-price-changes, and the api refuses a checkout whose Stripe price differs from this file."
+  ]
+ }
+}

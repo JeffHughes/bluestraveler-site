@@ -1,0 +1,27 @@
+# Pulls fresh tour dates, vault nights and prices, rebuilds, and publishes to GitHub Pages.
+# Runs on every push and once a day, so new Seated dates and new vault nights show up on their own.
+name: pages
+on:
+  push: { branches: [main] }
+  schedule: [{ cron: '17 9 * * *' }]
+  workflow_dispatch:
+permissions: { contents: read, pages: write, id-token: write }
+concurrency: { group: pages, cancel-in-progress: true }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/snapshot.mjs
+      - run: node scripts/build.mjs
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: site }
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: '${{ steps.d.outputs.page_url }}' }
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4
