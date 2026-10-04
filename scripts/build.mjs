@@ -54,7 +54,7 @@ const today = new Date().toISOString().slice(0, 10);
 // ---------- layout ----------
 const NAV = [
   ['index.html', 'Home'], ['tour.html', 'Tour'], ['club.html', 'Black Cat Club', 'club'],
-  [LINKS.store, 'Store', 'ext'], [LINKS.videos, 'Videos', 'ext'], [LINKS.nugs, 'Live Music', 'ext'], ['contact.html', 'Contact'],
+  [LINKS.store, 'Store', 'ext'], [LINKS.videos, 'Videos', 'ext'], [LINKS.nugs, 'Live Broadcasts', 'ext'], ['contact.html', 'Contact'],
 ];
 function nav(current, cls) {
   return NAV.map(([href, label, kind]) => {
@@ -117,8 +117,8 @@ ${body}
         </ul>
       </div>
       <div>
-        <h3>Live music</h3>
-        <p><a href="${LINKS.nugs}" ${ext}><img src="assets/band/nugs-white.webp" alt="nugs.net" width="108" height="28" style="display:inline-block;vertical-align:middle"></a></p>
+        <h3>Where to listen</h3>
+        <p>${whereToListen}</p>
       </div>
     </div>
     <p class="proposal">&copy; Blues Traveler ${new Date().getUTCFullYear()} &middot; <a href="${LINKS.privacy}" ${ext}>Privacy policy</a><br>
@@ -199,10 +199,12 @@ function albumGrid() {
     <img src="${esc(a.cover)}" alt="" loading="lazy" width="640" height="640"><b>${esc(a.title)}</b><span>${esc(a.year)}</span></a>`).join('')}</div>`;
 }
 
+// Where to listen (Jeff 2026-10-04): complementary, never competitive or exclusive; no nugs show counts.
+const whereToListen = `Live broadcasts stream on <a href="${LINKS.nugs}" ${ext}>nugs</a>. The full live archive, soundboards from across the years, lives in the <a href="${CLUB}" ${ext}>Black Cat Club</a>. Studio albums are on <a href="${LINKS.spotify}" ${ext}>Spotify</a> and everywhere you listen.`;
 const listen = `<div class="listen">
-  <a class="club" href="${LINKS.vault}" ${ext}><img src="assets/club/bcc-cat.png" alt="" width="28" height="28"> Soundboards on the Black Cat Club</a>
-  <a href="${LINKS.nugs}" ${ext}><img class="nugs" src="assets/band/nugs-white.webp" alt="" width="72" height="19"> Live music on nugs.net</a>
-  <a href="${LINKS.spotify}" ${ext}>${ICONS.spotify} Spotify</a>
+  <a class="club" href="${LINKS.vault}" ${ext}><img src="assets/club/bcc-cat.png" alt="" width="28" height="28"> The full live archive on the Black Cat Club</a>
+  <a href="${LINKS.nugs}" ${ext}><img class="nugs" src="assets/band/nugs-white.webp" alt="" width="72" height="19"> Live broadcasts on nugs</a>
+  <a href="${LINKS.spotify}" ${ext}>${ICONS.spotify} Studio albums on Spotify</a>
   <a href="${LINKS.apple}" ${ext}>${ICONS.applemusic} Apple Music</a>
   <a href="${LINKS.videos}" ${ext}>${ICONS.youtube} Videos on YouTube</a>
 </div>`;
@@ -243,7 +245,7 @@ ${clubBand}
   ${albumGrid()}
 </div></section>
 <section aria-labelledby="listen-h"><div class="wrap">
-  <div class="head"><h2 id="listen-h">Listen</h2></div>
+  <div class="head"><div><h2 id="listen-h">Where to listen</h2><p class="lede">${whereToListen}</p></div></div>
   ${listen}
 </div></section>`,
 });

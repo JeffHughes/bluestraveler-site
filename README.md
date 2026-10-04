@@ -6,7 +6,7 @@ Preview: https://jeffhughes.github.io/bluestraveler-site/
 
 ## What it keeps
 Everything bluestraveler.com does today: tour dates with ticket links (Seated) and the "follow for new dates" sign-up,
-the store, videos (YouTube), live music on nugs.net, Spotify and Apple Music, Facebook and Instagram, the newsletter
+the store, videos (YouTube), live broadcasts on nugs, studio albums on Spotify and Apple Music, Facebook and Instagram, the newsletter
 sign-up, the booking and management contacts, and the privacy policy.
 
 ## What it adds: the Black Cat Club
