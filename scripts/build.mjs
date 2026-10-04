@@ -48,7 +48,7 @@ const ext = 'target="_blank" rel="noopener"';
 const vault = data.vault;
 const vaultShows = vault?.shows ?? [];
 const byDateDesc = [...vaultShows].sort((a, b) => b.date.localeCompare(a.date));
-const newestOut = [...vaultShows].sort((a, b) => (b.added ?? '').localeCompare(a.added ?? '') || b.date.localeCompare(a.date));
+const newestOut = vault?.recent ?? [];   // the api's own order: newest out first
 const today = new Date().toISOString().slice(0, 10);
 
 // ---------- layout ----------

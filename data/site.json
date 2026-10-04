@@ -1,21 +1,21 @@
 {
- "generatedUtc": "2026-10-04T20:35:13.367Z",
+ "generatedUtc": "2026-10-04T20:47:58.458Z",
  "sources": {
   "tour": {
    "ok": true,
-   "pulledUtc": "2026-10-04T20:35:13.367Z"
+   "pulledUtc": "2026-10-04T20:47:58.458Z"
   },
   "vault": {
    "ok": true,
-   "pulledUtc": "2026-10-04T20:35:13.367Z"
+   "pulledUtc": "2026-10-04T20:47:58.458Z"
   },
   "albums": {
    "ok": true,
-   "pulledUtc": "2026-10-04T20:35:13.367Z"
+   "pulledUtc": "2026-10-04T20:47:58.458Z"
   },
   "pricing": {
    "ok": true,
-   "pulledUtc": "2026-10-04T20:35:13.367Z"
+   "pulledUtc": "2026-10-04T20:47:58.458Z"
   }
  },
  "tour": [
@@ -69,8 +69,8 @@
   "nights": 213,
   "firstYear": 1989,
   "lastYear": 2026,
-  "asOfUtc": "2026-10-04T20:35:12Z",
-  "shows": [
+  "asOfUtc": "2026-10-04T20:47:58Z",
+  "recent": [
    {
     "slug": "1992-05-12-colorado-springs-co",
     "date": "1992-05-12",
@@ -570,6 +570,1925 @@
     "country": "CA",
     "eventName": null,
     "added": "2026-10-01T11:21:03Z"
+   }
+  ],
+  "shows": [
+   {
+    "slug": "1989-05-26-new-york-ny",
+    "date": "1989-05-26",
+    "venue": "Acme Underground",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1989-10-29-ithaca-ny",
+    "date": "1989-10-29",
+    "venue": "Theta Delta Chi, Cornell University",
+    "city": "Ithaca",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1989-11-29-salem-va",
+    "date": "1989-11-29",
+    "venue": "The Barrel House",
+    "city": "Salem",
+    "state": "VA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1989-12-30-sacramento-ca",
+    "date": "1989-12-30",
+    "venue": "Arco Arena (Power Balance Pavilion)",
+    "city": "Sacramento",
+    "state": "CA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1990-05-03-ithaca-ny",
+    "date": "1990-05-03",
+    "venue": "Theta Delta Chi, Cornell University",
+    "city": "Ithaca",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1990-08-17-loveladies-nj",
+    "date": "1990-08-17",
+    "venue": "Long Beach Island Foundation of the Arts and Sciences",
+    "city": "Loveladies",
+    "state": "NJ",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1990-08-23-new-york-ny",
+    "date": "1990-08-23",
+    "venue": "Wetlands Preserve",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1990-09-11-ithaca-ny",
+    "date": "1990-09-11",
+    "venue": "The Haunt",
+    "city": "Ithaca",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1991-08-03-warwick-ri",
+    "date": "1991-08-03",
+    "venue": "Rocky Point Amusement Park",
+    "city": "Warwick",
+    "state": "RI",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1991-08-15-new-york-ny",
+    "date": "1991-08-15",
+    "venue": "Wetlands Preserve",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1991-10-27-burlington-vt",
+    "date": "1991-10-27",
+    "venue": "Memorial Auditorium",
+    "city": "Burlington",
+    "state": "VT",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1991-10-29-boston-ma",
+    "date": "1991-10-29",
+    "venue": "Orpheum Theatre",
+    "city": "Boston",
+    "state": "MA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1991-11-21-memphis-tn",
+    "date": "1991-11-21",
+    "venue": "Omni New Daisy Theatre",
+    "city": "Memphis",
+    "state": "TN",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1991-12-01-new-orleans-la",
+    "date": "1991-12-01",
+    "venue": "New Orleans Entertainment Hall",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1992-05-12-colorado-springs-co",
+    "date": "1992-05-12",
+    "venue": "Rack & Roll",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1992-05-26-west-hollywood-ca",
+    "date": "1992-05-26",
+    "venue": "Roxy Theatre",
+    "city": "West Hollywood",
+    "state": "CA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1994-08-31-wantagh-ny",
+    "date": "1994-08-31",
+    "venue": "Jones Beach Amphitheater (Nikon)",
+    "city": "Wantagh",
+    "state": "NY",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival"
+   },
+   {
+    "slug": "1995-03-04-london-england",
+    "date": "1995-03-04",
+    "venue": "Marquee",
+    "city": "London",
+    "state": "England",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1995-03-08-edinburgh-scotland",
+    "date": "1995-03-08",
+    "venue": "La Belle Angele",
+    "city": "Edinburgh",
+    "state": "Scotland",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1995-05-08-hampton-beach-nh",
+    "date": "1995-05-08",
+    "venue": "Hampton Beach Casino Ballroom",
+    "city": "Hampton Beach",
+    "state": "NH",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1995-07-10-valdez-ak",
+    "date": "1995-07-10",
+    "venue": "Valdez Convention and Civic Center",
+    "city": "Valdez",
+    "state": "AK",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1996-07-20-austin-tx",
+    "date": "1996-07-20",
+    "venue": "South Park Meadows",
+    "city": "Austin",
+    "state": "TX",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival"
+   },
+   {
+    "slug": "1996-08-03-portland-or",
+    "date": "1996-08-03",
+    "venue": "Portland Meadows",
+    "city": "Portland",
+    "state": "OR",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival"
+   },
+   {
+    "slug": "1996-08-04-quincy-wa",
+    "date": "1996-08-04",
+    "venue": "The Gorge",
+    "city": "Quincy",
+    "state": "WA",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival"
+   },
+   {
+    "slug": "1996-08-29-charlotte-nc",
+    "date": "1996-08-29",
+    "venue": "Paladium Amphitheater at Paramount's Carowinds",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival"
+   },
+   {
+    "slug": "1996-11-09-ames-ia",
+    "date": "1996-11-09",
+    "venue": "CY Stephens Auditorium, Iowa State University",
+    "city": "Ames",
+    "state": "IA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1997-07-03-morrison-co",
+    "date": "1997-07-03",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1997-08-11-holmdel-nj",
+    "date": "1997-08-11",
+    "venue": "PNC Bank Arts Center",
+    "city": "Holmdel",
+    "state": "NJ",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1997-08-29-berkeley-ca",
+    "date": "1997-08-29",
+    "venue": "Hearst Greek Theatre, University of California at Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1997-10-24-annapolis-md",
+    "date": "1997-10-24",
+    "venue": "Alumni Hall, US Naval Academy",
+    "city": "Annapolis",
+    "state": "MD",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1998-07-03-morrison-co",
+    "date": "1998-07-03",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1998-07-18-clarkston-mi",
+    "date": "1998-07-18",
+    "venue": "Pine Knob Music Theatre",
+    "city": "Clarkston",
+    "state": "MI",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival"
+   },
+   {
+    "slug": "1998-08-08-camden-nj",
+    "date": "1998-08-08",
+    "venue": "Blockbuster-Sony Entertainment Centre",
+    "city": "Camden",
+    "state": "NJ",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival"
+   },
+   {
+    "slug": "1998-08-28-mountain-view-ca",
+    "date": "1998-08-28",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival"
+   },
+   {
+    "slug": "2000-08-01-philadelphia-pa",
+    "date": "2000-08-01",
+    "venue": "The Electric Factory",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": null,
+    "eventName": "Republican National Convention"
+   },
+   {
+    "slug": "2000-10-03-san-francisco-ca",
+    "date": "2000-10-03",
+    "venue": "Hyatt Embarcadero",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": null,
+    "eventName": "CompTel Private Party"
+   },
+   {
+    "slug": "2000-10-20-pittsburgh-pa",
+    "date": "2000-10-20",
+    "venue": "Kirr Commons, Carnegie Mellon University",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2001-04-11-greenville-sc",
+    "date": "2001-04-11",
+    "venue": "McAlister Auditorium, Furman University",
+    "city": "Greenville",
+    "state": "SC",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2001-04-12-north-myrtle-beach-sc",
+    "date": "2001-04-12",
+    "venue": "House of Blues",
+    "city": "North Myrtle Beach",
+    "state": "SC",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2002-11-09-new-york-ny",
+    "date": "2002-11-09",
+    "venue": "Irving Plaza",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2002-11-16-northfield-mn",
+    "date": "2002-11-16",
+    "venue": "Skoglund Athletic Center, St. Olaf College",
+    "city": "Northfield",
+    "state": "MN",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2002-12-05-portland-or",
+    "date": "2002-12-05",
+    "venue": "Roseland Theater",
+    "city": "Portland",
+    "state": "OR",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2003-01-06-tallahassee-fl",
+    "date": "2003-01-06",
+    "venue": "Intramural Fields, Florida State University",
+    "city": "Tallahassee",
+    "state": "FL",
+    "country": null,
+    "eventName": "Inauguration of Governor Jeb Bush"
+   },
+   {
+    "slug": "2003-02-01-stateline-nv",
+    "date": "2003-02-01",
+    "venue": "Circus Maximus Showroom, Caesar's Tahoe",
+    "city": "Stateline",
+    "state": "NV",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2003-02-04-san-diego-ca",
+    "date": "2003-02-04",
+    "venue": "4th & B",
+    "city": "San Diego",
+    "state": "CA",
+    "country": null,
+    "eventName": "Lehman Brothers private party"
+   },
+   {
+    "slug": "2003-06-01-jacksonville-beach-fl",
+    "date": "2003-06-01",
+    "venue": "Freebird Café",
+    "city": "Jacksonville Beach",
+    "state": "FL",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2003-06-04-st-petersburg-fl",
+    "date": "2003-06-04",
+    "venue": "Jannus Landing",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2003-06-12-nashville-tn",
+    "date": "2003-06-12",
+    "venue": "Nashville Coliseum Field",
+    "city": "Nashville",
+    "state": "TN",
+    "country": null,
+    "eventName": "Dancin' In The District"
+   },
+   {
+    "slug": "2003-06-13-atlanta-ga",
+    "date": "2003-06-13",
+    "venue": "Centennial Olympic Park",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": null,
+    "eventName": "On The Bricks"
+   },
+   {
+    "slug": "2006-11-09-uncasville-ct",
+    "date": "2006-11-09",
+    "venue": "Mohegan Sun Arena",
+    "city": "Uncasville",
+    "state": "CT",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2006-11-10-schenectady-ny",
+    "date": "2006-11-10",
+    "venue": "Proctors Theatre",
+    "city": "Schenectady",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2006-11-11-falls-church-va",
+    "date": "2006-11-11",
+    "venue": "State Theatre",
+    "city": "Falls Church",
+    "state": "VA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2006-11-13-jim-thorpe-pa",
+    "date": "2006-11-13",
+    "venue": "Penn's Peak",
+    "city": "Jim Thorpe",
+    "state": "PA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2006-11-14-red-bank-nj",
+    "date": "2006-11-14",
+    "venue": "Count Basie Theatre",
+    "city": "Red Bank",
+    "state": "NJ",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2006-11-17-greenvale-ny",
+    "date": "2006-11-17",
+    "venue": "Tilles Center, C.W. Post Campus, Long Island University",
+    "city": "Greenvale",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2006-11-18-johnson-city-ny",
+    "date": "2006-11-18",
+    "venue": "Magic City Music Hall",
+    "city": "Johnson City",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2007-01-05-cerritos-ca",
+    "date": "2007-01-05",
+    "venue": "Cerritos Center for the Performing Arts",
+    "city": "Cerritos",
+    "state": "CA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2007-04-14-starkville-ms",
+    "date": "2007-04-14",
+    "venue": "Mississippi State University Amphitheater, Mississippi State University",
+    "city": "Starkville",
+    "state": "MS",
+    "country": null,
+    "eventName": "Spring Fever"
+   },
+   {
+    "slug": "2007-04-26-hattiesburg-ms",
+    "date": "2007-04-26",
+    "venue": "The Bottling Company",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2007-05-19-chicago-il",
+    "date": "2007-05-19",
+    "venue": "House of Blues",
+    "city": "Chicago",
+    "state": "IL",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2007-07-23-traverse-city-mi",
+    "date": "2007-07-23",
+    "venue": "Streeters Entertainment Center",
+    "city": "Traverse City",
+    "state": "MI",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2007-07-31-harrisburg-pa",
+    "date": "2007-07-31",
+    "venue": "Sunoco Performance Theater, Whitaker Center",
+    "city": "Harrisburg",
+    "state": "PA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2007-08-25-peachtree-city-ga",
+    "date": "2007-08-25",
+    "venue": "Frederick Brown, Jr. Amphitheater",
+    "city": "Peachtree City",
+    "state": "GA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2007-10-09-athens-ga",
+    "date": "2007-10-09",
+    "venue": "Georgia Theatre",
+    "city": "Athens",
+    "state": "GA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2007-11-06-ridgefield-ct",
+    "date": "2007-11-06",
+    "venue": "Ridgefield Playhouse",
+    "city": "Ridgefield",
+    "state": "CT",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2007-12-14-crystal-bay-nv",
+    "date": "2007-12-14",
+    "venue": "Crystal Bay Club Casino",
+    "city": "Crystal Bay",
+    "state": "NV",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2008-01-12-santa-barbara-ca",
+    "date": "2008-01-12",
+    "venue": "Arlington Theater",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "country": null,
+    "eventName": "Rock the Reagan concert"
+   },
+   {
+    "slug": "2008-02-18-indio-ca",
+    "date": "2008-02-18",
+    "venue": "Aladdin Concert Pavilion",
+    "city": "Indio",
+    "state": "CA",
+    "country": null,
+    "eventName": "Riverside County Fair"
+   },
+   {
+    "slug": "2008-05-17-grand-ronde-or",
+    "date": "2008-05-17",
+    "venue": "Spirit Mountain Casino",
+    "city": "Grand Ronde",
+    "state": "OR",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2008-05-25-syracuse-ny",
+    "date": "2008-05-25",
+    "venue": "New York State Fairgrounds",
+    "city": "Syracuse",
+    "state": "NY",
+    "country": null,
+    "eventName": "Blues, Brews and Bar-B-Que"
+   },
+   {
+    "slug": "2008-06-13-big-flats-ny",
+    "date": "2008-06-13",
+    "venue": "Summer Stage at Tags",
+    "city": "Big Flats",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2009-06-10-glen-allen-va",
+    "date": "2009-06-10",
+    "venue": "Innsbrook Pavilion",
+    "city": "Glen Allen",
+    "state": "VA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2009-07-02-arlington-heights-il",
+    "date": "2009-07-02",
+    "venue": "Recreation Park",
+    "city": "Arlington Heights",
+    "state": "IL",
+    "country": null,
+    "eventName": "Frontier Days"
+   },
+   {
+    "slug": "2009-08-01-freeport-me",
+    "date": "2009-08-01",
+    "venue": "LL Bean Discovery Park",
+    "city": "Freeport",
+    "state": "ME",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2009-09-11-west-wendover-nv",
+    "date": "2009-09-11",
+    "venue": "Peppermill Concert Hall",
+    "city": "West Wendover",
+    "state": "NV",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2009-10-13-atlanta-ga",
+    "date": "2009-10-13",
+    "venue": "Center Stage",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2009-11-01-annapolis-md",
+    "date": "2009-11-01",
+    "venue": "Rams Head Onstage",
+    "city": "Annapolis",
+    "state": "MD",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2015-02-06-jackson-ca",
+    "date": "2015-02-06",
+    "venue": "Jackson Rancheria Casino Resort",
+    "city": "Jackson",
+    "state": "CA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-04-14-bohemia-ny",
+    "date": "2015-04-14",
+    "venue": "New York Tent",
+    "city": "Bohemia",
+    "state": "NY",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-05-13-rochester-ny",
+    "date": "2015-05-13",
+    "venue": "Highland Park",
+    "city": "Rochester",
+    "state": "NY",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-05-23-wilkes-barre-pa",
+    "date": "2015-05-23",
+    "venue": "Mohegan Sun at Pocono Downs",
+    "city": "Wilkes-Barre",
+    "state": "PA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-07-04-morrison-co",
+    "date": "2015-07-04",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2015-07-16-columbus-mn",
+    "date": "2015-07-16",
+    "venue": "Running Aces Casino & Racetrack",
+    "city": "Columbus",
+    "state": "MN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-07-30-cleveland-oh",
+    "date": "2015-07-30",
+    "venue": "House of Blues",
+    "city": "Cleveland",
+    "state": "OH",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2015-08-21-charlottesville-va",
+    "date": "2015-08-21",
+    "venue": "The Jefferson Theater",
+    "city": "Charlottesville",
+    "state": "VA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-08-22-asheville-nc",
+    "date": "2015-08-22",
+    "venue": "Biltmore Estate",
+    "city": "Asheville",
+    "state": "NC",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-08-23-knoxville-tn",
+    "date": "2015-08-23",
+    "venue": "U.S. Cellular Stage at the Bijou Theatre",
+    "city": "Knoxville",
+    "state": "TN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-09-16-birmingham-al",
+    "date": "2015-09-16",
+    "venue": "Iron City",
+    "city": "Birmingham",
+    "state": "AL",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-09-18-pensacola-fl",
+    "date": "2015-09-18",
+    "venue": "Vinyl Music Hall",
+    "city": "Pensacola",
+    "state": "FL",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2015-09-25-houston-tx",
+    "date": "2015-09-25",
+    "venue": "House of Blues",
+    "city": "Houston",
+    "state": "TX",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2015-09-26-dallas-tx",
+    "date": "2015-09-26",
+    "venue": "House of Blues",
+    "city": "Dallas",
+    "state": "TX",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2015-10-01-minneapolis-mn",
+    "date": "2015-10-01",
+    "venue": "Mill City Nights",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-10-03-chicago-il",
+    "date": "2015-10-03",
+    "venue": "House of Blues",
+    "city": "Chicago",
+    "state": "IL",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2015-10-06-salt-lake-city-ut",
+    "date": "2015-10-06",
+    "venue": "The Depot",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-10-07-boise-id",
+    "date": "2015-10-07",
+    "venue": "Knitting Factory",
+    "city": "Boise",
+    "state": "ID",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-10-08-spokane-wa",
+    "date": "2015-10-08",
+    "venue": "Knitting Factory",
+    "city": "Spokane",
+    "state": "WA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-10-17-temecula-ca",
+    "date": "2015-10-17",
+    "venue": "Monte De Oro Winery",
+    "city": "Temecula",
+    "state": "CA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2015-10-19-anaheim-ca",
+    "date": "2015-10-19",
+    "venue": "House of Blues",
+    "city": "Anaheim",
+    "state": "CA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2015-10-23-flagstaff-az",
+    "date": "2015-10-23",
+    "venue": "Orpheum Theater",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2016-07-23-walker-mn",
+    "date": "2016-07-23",
+    "venue": "Festival Site",
+    "city": "Walker",
+    "state": "MN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2016-09-04-denver-co",
+    "date": "2016-09-04",
+    "venue": "Civic Center Park",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2016-11-16-birmingham-al",
+    "date": "2016-11-16",
+    "venue": "Iron City",
+    "city": "Birmingham",
+    "state": "AL",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-05-09-south-burlington-vt",
+    "date": "2022-05-09",
+    "venue": "Higher Ground Music Hall",
+    "city": "South Burlington",
+    "state": "VT",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-08-mansfield-ma",
+    "date": "2022-06-08",
+    "venue": "Xfinity Center",
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-11-saratoga-springs-ny",
+    "date": "2022-06-11",
+    "venue": "Saratoga Performing Arts Center",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-17-burgettstown-pa",
+    "date": "2022-06-17",
+    "venue": "The Pavilion at Star Lake",
+    "city": "Burgettstown",
+    "state": "PA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-18-cuyahoga-falls-oh",
+    "date": "2022-06-18",
+    "venue": "Blossom Music Center",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-19-cincinnati-oh",
+    "date": "2022-06-19",
+    "venue": "Riverbend Music Center",
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-21-nashville-tn",
+    "date": "2022-06-21",
+    "venue": "Ascend Amphitheater",
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-24-west-palm-beach-fl",
+    "date": "2022-06-24",
+    "venue": "iTHINK Financial Amphitheatre",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-25-tampa-fl",
+    "date": "2022-06-25",
+    "venue": "MidFlorida Credit Union Amphitheatre",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-26-jacksonville-fl",
+    "date": "2022-06-26",
+    "venue": "Daily's Place Amphitheater",
+    "city": "Jacksonville",
+    "state": "FL",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-28-atlanta-ga",
+    "date": "2022-06-28",
+    "venue": "Cellairis Amphitheatre at Lakewood",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-06-30-charlotte-nc",
+    "date": "2022-06-30",
+    "venue": "PNC Music Pavilion",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-01-raleigh-nc",
+    "date": "2022-07-01",
+    "venue": "Coastal Credit Union Music Park at Walnut Creek",
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-02-virginia-beach-va",
+    "date": "2022-07-02",
+    "venue": "Veterans United Home Loans Amphitheater at Virginia Beach",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-04-morrison-co",
+    "date": "2022-07-04",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-07-gilford-nh",
+    "date": "2022-07-07",
+    "venue": "Bank of New Hampshire Pavilion at Meadowbrook",
+    "city": "Gilford",
+    "state": "NH",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-08-bethel-ny",
+    "date": "2022-07-08",
+    "venue": "Bethel Woods Center for the Arts",
+    "city": "Bethel",
+    "state": "NY",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-10-toronto-on",
+    "date": "2022-07-10",
+    "venue": "Budweiser Stage",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-12-clarkston-mi",
+    "date": "2022-07-12",
+    "venue": "Pine Knob Music Theatre",
+    "city": "Clarkston",
+    "state": "MI",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-13-noblesville-in",
+    "date": "2022-07-13",
+    "venue": "Ruoff Home Mortgage Music Center",
+    "city": "Noblesville",
+    "state": "IN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-16-maryland-heights-mo",
+    "date": "2022-07-16",
+    "venue": "Hollywood Casino Amphitheatre",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-17-rogers-ar",
+    "date": "2022-07-17",
+    "venue": "Walmart AMP",
+    "city": "Rogers",
+    "state": "AR",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-19-austin-tx",
+    "date": "2022-07-19",
+    "venue": "Germania Insurance Amphitheater",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-20-dallas-tx",
+    "date": "2022-07-20",
+    "venue": "Dos Equis Pavilion",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-21-the-woodlands-tx",
+    "date": "2022-07-21",
+    "venue": "Cynthia Woods Mitchell Pavilion",
+    "city": "The Woodlands",
+    "state": "TX",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-23-albuquerque-nm",
+    "date": "2022-07-23",
+    "venue": "Isleta Amphitheater",
+    "city": "Albuquerque",
+    "state": "NM",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-24-phoenix-az",
+    "date": "2022-07-24",
+    "venue": "Ak-Chin Pavilion",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-26-chula-vista-ca",
+    "date": "2022-07-26",
+    "venue": "North Island Credit Union Amphitheatre",
+    "city": "Chula Vista",
+    "state": "CA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-29-irvine-ca",
+    "date": "2022-07-29",
+    "venue": "FivePoint Amphitheatre",
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-30-concord-ca",
+    "date": "2022-07-30",
+    "venue": "Concord Pavilion",
+    "city": "Concord",
+    "state": "CA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2022-07-31-mountain-view-ca",
+    "date": "2022-07-31",
+    "venue": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2022-08-02-seattle-wa",
+    "date": "2022-08-02",
+    "venue": "Climate Pledge Arena",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-08-03-bend-or",
+    "date": "2022-08-03",
+    "venue": "Hayden Homes Amphitheater",
+    "city": "Bend",
+    "state": "OR",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-08-04-worley-id",
+    "date": "2022-08-04",
+    "venue": "Coeur d'Alene Casino Resort Hotel",
+    "city": "Worley",
+    "state": "ID",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-08-06-rexford-mt",
+    "date": "2022-08-06",
+    "venue": "Abayance Bay",
+    "city": "Rexford",
+    "state": "MT",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-09-10-healdsburg-ca",
+    "date": "2022-09-10",
+    "venue": "Rodney Strong Vineyards",
+    "city": "Healdsburg",
+    "state": "CA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-09-16-des-plaines-il",
+    "date": "2022-09-16",
+    "venue": "The Event Center at Rivers Casino Des Plaines",
+    "city": "Des Plaines",
+    "state": "IL",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-09-27-new-haven-ct",
+    "date": "2022-09-27",
+    "venue": "College Street Music Hall",
+    "city": "New Haven",
+    "state": "CT",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-09-29-north-stonington-ct",
+    "date": "2022-09-29",
+    "venue": "Jonathan Edwards Winery",
+    "city": "North Stonington",
+    "state": "CT",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-09-30-bensalem-pa",
+    "date": "2022-09-30",
+    "venue": "Xcite Center",
+    "city": "Bensalem",
+    "state": "PA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-10-01-pound-ridge-ny",
+    "date": "2022-10-01",
+    "venue": "Pound Ridge Town Park",
+    "city": "Pound Ridge",
+    "state": "NY",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-10-04-montclair-nj",
+    "date": "2022-10-04",
+    "venue": "Wellmont Theater",
+    "city": "Montclair",
+    "state": "NJ",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-10-05-roanoke-va",
+    "date": "2022-10-05",
+    "venue": "Dr. Pepper Park",
+    "city": "Roanoke",
+    "state": "VA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-10-07-ranson-wv",
+    "date": "2022-10-07",
+    "venue": "Hollywood Casino at Charles Town Races",
+    "city": "Ranson",
+    "state": "WV",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-10-08-kent-oh",
+    "date": "2022-10-08",
+    "venue": "Kent Stage",
+    "city": "Kent",
+    "state": "OH",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2022-10-09-warren-oh",
+    "date": "2022-10-09",
+    "venue": "Robins Theatre",
+    "city": "Warren",
+    "state": "OH",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2023-07-29-reno-nv",
+    "date": "2023-07-29",
+    "venue": "Grand Sierra Theatre",
+    "city": "Reno",
+    "state": "NV",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2023-08-02-albuquerque-nm",
+    "date": "2023-08-02",
+    "venue": "Revel Entertainment Center",
+    "city": "Albuquerque",
+    "state": "NM",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2023-08-10-kansas-city-mo",
+    "date": "2023-08-10",
+    "venue": "Grinders KC",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2023-10-20-lagrange-ga",
+    "date": "2023-10-20",
+    "venue": "Sweetland Amphitheatre at Boyd Park",
+    "city": "LaGrange",
+    "state": "GA",
+    "country": "USA",
+    "eventName": null
+   },
+   {
+    "slug": "2023-11-03-wisconsin-dells-wi",
+    "date": "2023-11-03",
+    "venue": "Crystal Grand Music Theatre",
+    "city": "Wisconsin Dells",
+    "state": "WI",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2024-10-26-florence-ky",
+    "date": "2024-10-26",
+    "venue": "Turfway Park Racing & Gaming",
+    "city": "Florence",
+    "state": "KY",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2024-11-03-chattanooga-tn",
+    "date": "2024-11-03",
+    "venue": "The Signal",
+    "city": "Chattanooga",
+    "state": "TN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2024-11-08-atlanta-ga",
+    "date": "2024-11-08",
+    "venue": "Tabernacle",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-04-morrison-co",
+    "date": "2025-07-04",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-06-la-vista-ne",
+    "date": "2025-07-06",
+    "venue": "The Astro Amphitheater",
+    "city": "La Vista",
+    "state": "NE",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-07-cedar-rapids-ia",
+    "date": "2025-07-07",
+    "venue": "McGrath Amphitheatre",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-11-rochester-hills-mi",
+    "date": "2025-07-11",
+    "venue": "Meadow Brook Amphitheatre",
+    "city": "Rochester Hills",
+    "state": "MI",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-12-huber-heights-oh",
+    "date": "2025-07-12",
+    "venue": "Rose Music Center at The Heights",
+    "city": "Huber Heights",
+    "state": "OH",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-13-creighton-pa",
+    "date": "2025-07-13",
+    "venue": "Pittsburgh Brewing Company",
+    "city": "Creighton",
+    "state": "PA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-17-hyannis-ma",
+    "date": "2025-07-17",
+    "venue": "Cape Cod Melody Tent",
+    "city": "Hyannis",
+    "state": "MA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-18-wallingford-ct",
+    "date": "2025-07-18",
+    "venue": "Toyota Presents the Oakdale Theatre",
+    "city": "Wallingford",
+    "state": "CT",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-19-atlantic-city-nj",
+    "date": "2025-07-19",
+    "venue": "Ovation Hall",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-21-harrington-de",
+    "date": "2025-07-21",
+    "venue": "Delaware State Fairgrounds",
+    "city": "Harrington",
+    "state": "DE",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-25-prior-lake-mn",
+    "date": "2025-07-25",
+    "venue": "Mystic Lake Casino",
+    "city": "Prior Lake",
+    "state": "MN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-07-27-ashwaubenon-wi",
+    "date": "2025-07-27",
+    "venue": "Capital Credit Union Park",
+    "city": "Ashwaubenon",
+    "state": "WI",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-07-chesterfield-mo",
+    "date": "2025-08-07",
+    "venue": "Chesterfield Amphitheater",
+    "city": "Chesterfield",
+    "state": "MO",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-09-concho-ok",
+    "date": "2025-08-09",
+    "venue": "Lucky Star Amphitheater",
+    "city": "Concho",
+    "state": "OK",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-14-las-vegas-nv",
+    "date": "2025-08-14",
+    "venue": "Red Rock Amphitheatre",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-15-costa-mesa-ca",
+    "date": "2025-08-15",
+    "venue": "Pacific Amphitheatre",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-16-san-diego-ca",
+    "date": "2025-08-16",
+    "venue": "Gallagher Square",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-19-saratoga-ca",
+    "date": "2025-08-19",
+    "venue": "The Mountain Winery",
+    "city": "Saratoga",
+    "state": "CA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-21-ridgefield-wa",
+    "date": "2025-08-21",
+    "venue": "Ilani Casino",
+    "city": "Ridgefield",
+    "state": "WA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-22-woodinville-wa",
+    "date": "2025-08-22",
+    "venue": "Chateau Ste. Michelle Winery Amphitheatre",
+    "city": "Woodinville",
+    "state": "WA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-26-nampa-id",
+    "date": "2025-08-26",
+    "venue": "Ford Amphitheater",
+    "city": "Nampa",
+    "state": "ID",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-08-30-scottsdale-az",
+    "date": "2025-08-30",
+    "venue": "Talking Stick Resort",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-09-04-andover-ks",
+    "date": "2025-09-04",
+    "venue": "Capitol Federal Amphitheater",
+    "city": "Andover",
+    "state": "KS",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-09-12-albertville-al",
+    "date": "2025-09-12",
+    "venue": "Sand Mountain Amphitheater",
+    "city": "Albertville",
+    "state": "AL",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-09-13-peachtree-city-ga",
+    "date": "2025-09-13",
+    "venue": "Frederick Brown, Jr. Amphitheater",
+    "city": "Peachtree City",
+    "state": "GA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2025-09-14-louisville-ky",
+    "date": "2025-09-14",
+    "venue": "Highland Festival Grounds at the Kentucky Expo Center",
+    "city": "Louisville",
+    "state": "KY",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-10-18-greenville-ms",
+    "date": "2025-10-18",
+    "venue": "Downtown Greenville",
+    "city": "Greenville",
+    "state": "MS",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-10-19-bentonville-ar",
+    "date": "2025-10-19",
+    "venue": "Momentary Green",
+    "city": "Bentonville",
+    "state": "AR",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-10-21-nashville-tn",
+    "date": "2025-10-21",
+    "venue": "Ryman Auditorium",
+    "city": "Nashville",
+    "state": "TN",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2025-10-24-greensboro-ga",
+    "date": "2025-10-24",
+    "venue": "Sandy Creek Barn",
+    "city": "Greensboro",
+    "state": "GA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-10-25-north-augusta-sc",
+    "date": "2025-10-25",
+    "venue": "Downtown North Augusta",
+    "city": "North Augusta",
+    "state": "SC",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-10-26-north-myrtle-beach-sc",
+    "date": "2025-10-26",
+    "venue": "House of Blues",
+    "city": "North Myrtle Beach",
+    "state": "SC",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2025-11-04-harrisburg-pa",
+    "date": "2025-11-04",
+    "venue": "Capital City Music Hall",
+    "city": "Harrisburg",
+    "state": "PA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-11-06-wabash-in",
+    "date": "2025-11-06",
+    "venue": "Honeywell Center",
+    "city": "Wabash",
+    "state": "IN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-11-07-springfield-il",
+    "date": "2025-11-07",
+    "venue": "Boondocks",
+    "city": "Springfield",
+    "state": "IL",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-11-08-kansas-city-mo",
+    "date": "2025-11-08",
+    "venue": "Star Pavilion",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-11-11-paducah-ky",
+    "date": "2025-11-11",
+    "venue": "Luther F. Carson Four Rivers Center",
+    "city": "Paducah",
+    "state": "KY",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-11-13-catoosa-ok",
+    "date": "2025-11-13",
+    "venue": "Hard Rock Live",
+    "city": "Catoosa",
+    "state": "OK",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-11-14-little-rock-ar",
+    "date": "2025-11-14",
+    "venue": "The Hall",
+    "city": "Little Rock",
+    "state": "AR",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2025-11-15-biloxi-ms",
+    "date": "2025-11-15",
+    "venue": "IP Casino Resort Spa",
+    "city": "Biloxi",
+    "state": "MS",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-05-03-columbus-ga",
+    "date": "2026-05-03",
+    "venue": "RiverCenter for the Performing Arts",
+    "city": "Columbus",
+    "state": "GA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-05-05-memphis-tn",
+    "date": "2026-05-05",
+    "venue": "Soundstage at Graceland",
+    "city": "Memphis",
+    "state": "TN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-05-07-mobile-al",
+    "date": "2026-05-07",
+    "venue": "Saenger Theatre",
+    "city": "Mobile",
+    "state": "AL",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-05-09-lake-charles-la",
+    "date": "2026-05-09",
+    "venue": "L'Auberge Casino Resort Lake Charles",
+    "city": "Lake Charles",
+    "state": "LA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-05-14-cedar-park-tx",
+    "date": "2026-05-14",
+    "venue": "Haute Spot",
+    "city": "Cedar Park",
+    "state": "TX",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-05-15-richardson-tx",
+    "date": "2026-05-15",
+    "venue": "Galatyn Park",
+    "city": "Richardson",
+    "state": "TX",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-06-12-manchester-tn",
+    "date": "2026-06-12",
+    "venue": "Great Stage Park",
+    "city": "Manchester",
+    "state": "TN",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-06-13-black-river-falls-wi",
+    "date": "2026-06-13",
+    "venue": "Ho-Chunk Gaming Black River Falls",
+    "city": "Black River Falls",
+    "state": "WI",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-07-04-morrison-co",
+    "date": "2026-07-04",
+    "venue": "Red Rocks Amphitheatre",
+    "city": "Morrison",
+    "state": "CO",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2026-07-06-grand-junction-co",
+    "date": "2026-07-06",
+    "venue": "Amphitheater at Las Colonias Park",
+    "city": "Grand Junction",
+    "state": "CO",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-07-09-eugene-or",
+    "date": "2026-07-09",
+    "venue": "Cuthbert Amphitheater",
+    "city": "Eugene",
+    "state": "OR",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-07-10-redmond-wa",
+    "date": "2026-07-10",
+    "venue": "Marymoor Park",
+    "city": "Redmond",
+    "state": "WA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2026-07-11-vancouver-bc",
+    "date": "2026-07-11",
+    "venue": "Hastings Park",
+    "city": "Vancouver",
+    "state": "BC",
+    "country": "CA",
+    "eventName": null
+   },
+   {
+    "slug": "2026-07-14-salt-lake-city-ut",
+    "date": "2026-07-14",
+    "venue": "Red Butte Garden",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-07-16-sparks-nv",
+    "date": "2026-07-16",
+    "venue": "Rose Ballroom at Nugget Casino Resort",
+    "city": "Sparks",
+    "state": "NV",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-07-17-rohnert-park-ca",
+    "date": "2026-07-17",
+    "venue": "Green Music Center",
+    "city": "Rohnert Park",
+    "state": "CA",
+    "country": "US",
+    "eventName": null
+   },
+   {
+    "slug": "2026-07-24-brookfield-il",
+    "date": "2026-07-24",
+    "venue": "Brookfield Zoo",
+    "city": "Brookfield",
+    "state": "IL",
+    "country": "USA",
+    "eventName": null
    }
   ]
  },

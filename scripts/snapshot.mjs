@@ -38,14 +38,31 @@ async function tour() {
     .sort((a, b) => a.date.localeCompare(b.date));
 }
 
+async function paged(path) {
+  const all = [];
+  for (let skip = 0; ; skip += 200) {
+    const p = await json(`${API}/${path}${path.includes('?') ? '&' : '?'}take=200&skip=${skip}`, H);
+    all.push(...p.items);
+    if (all.length >= p.total || !p.items.length) return all;
+  }
+}
+
 async function vault() {
-  const v = await json(`${API}/catalog/vault?take=1000`, H);
+  // catalog/vault is the live count and the newest-out list (capped at 50 by the api);
+  // every night with audio comes from catalog/shows?hasAudio=true, joined to its venue.
+  const v = await json(`${API}/catalog/vault?take=50`, H);
+  const [shows, venues] = await Promise.all([paged('catalog/shows?hasAudio=true'), paged('catalog/venues')]);
+  const ven = new Map(venues.map((x) => [x.id, x]));
   return {
     nights: v.nights, firstYear: v.firstYear, lastYear: v.lastYear, asOfUtc: v.asOfUtc,
-    shows: v.recent.map((s) => ({
+    recent: v.recent.map((s) => ({
       slug: s.slug, date: s.date, venue: s.venue, city: s.city, state: s.state, country: s.country,
       eventName: s.eventName, added: s.addedAtUtc,
     })),
+    shows: shows.filter((s) => !s.sai).map((s) => {
+      const x = ven.get(s.venueId) ?? {};
+      return { slug: s.slug, date: s.date, venue: x.name || null, city: x.city ?? null, state: x.state ?? null, country: x.country ?? null, eventName: s.eventName };
+    }),
   };
 }
 
