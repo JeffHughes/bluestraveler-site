@@ -301,7 +301,7 @@ const pricingBlock = !P ? `<p class="fail">We could not reach the club's price l
   <div class="tiers">
     <div class="tier"><h3>Free</h3><div class="price">$0</div><p>${esc(TIERS.free.blurb)}</p>${li(TIERS.free.features)}
       <a class="btn ghost" href="${CLUB}" ${ext}>Walk in</a></div>
-    <div class="tier gold"><span class="ribbon">The whole show</span><h3>Gold</h3>${tierPrice('gold')}<p>${esc(TIERS.gold.blurb)}</p>${li(TIERS.gold.features)}
+    <div class="tier gold"><span class="ribbon">The whole shebang - let's boogie</span><h3>Gold</h3>${tierPrice('gold')}<p>${esc(TIERS.gold.blurb)}</p>${li(TIERS.gold.features)}
       <a class="btn gold" href="${LINKS.pricing}" ${ext}>Go Gold</a></div>
     <div class="tier"><span class="ribbon">VIP</span><h3>Platinum</h3>${tierPrice('platinum')}<p>${esc(TIERS.platinum.blurb)}</p>${li(TIERS.platinum.features)}
       <a class="btn" href="${LINKS.pricing}" ${ext}>Go Platinum</a></div>

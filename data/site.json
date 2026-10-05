@@ -1,21 +1,21 @@
 {
- "generatedUtc": "2026-10-04T20:47:58.458Z",
+ "generatedUtc": "2026-10-05T03:09:22.436Z",
  "sources": {
   "tour": {
    "ok": true,
-   "pulledUtc": "2026-10-04T20:47:58.458Z"
+   "pulledUtc": "2026-10-05T03:09:22.436Z"
   },
   "vault": {
    "ok": true,
-   "pulledUtc": "2026-10-04T20:47:58.458Z"
+   "pulledUtc": "2026-10-05T03:09:22.436Z"
   },
   "albums": {
    "ok": true,
-   "pulledUtc": "2026-10-04T20:47:58.458Z"
+   "pulledUtc": "2026-10-05T03:09:22.436Z"
   },
   "pricing": {
    "ok": true,
-   "pulledUtc": "2026-10-04T20:47:58.458Z"
+   "pulledUtc": "2026-10-05T03:09:22.436Z"
   }
  },
  "tour": [
@@ -66,11 +66,131 @@
   }
  ],
  "vault": {
-  "nights": 213,
+  "nights": 225,
   "firstYear": 1989,
   "lastYear": 2026,
-  "asOfUtc": "2026-10-04T20:47:58Z",
+  "asOfUtc": "2026-10-05T03:07:39Z",
   "recent": [
+   {
+    "slug": "1989-03-31-new-york-ny",
+    "date": "1989-03-31",
+    "venue": "Acme Underground",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-05T02:56:05Z"
+   },
+   {
+    "slug": "2013-09-14-buffalo-ny",
+    "date": "2013-09-14",
+    "venue": "Stampede Square",
+    "city": "Buffalo",
+    "state": "NY",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-05T02:52:37Z"
+   },
+   {
+    "slug": "1994-11-10-boston-ma",
+    "date": "1994-11-10",
+    "venue": "Orpheum Theatre",
+    "city": "Boston",
+    "state": "MA",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-05T01:45:36Z"
+   },
+   {
+    "slug": "1995-07-22-markham-ontario",
+    "date": "1995-07-22",
+    "venue": "Markham Fairgrounds",
+    "city": "Markham",
+    "state": "Ontario",
+    "country": null,
+    "eventName": "Another Roadside Attraction",
+    "added": "2026-10-05T01:34:35Z"
+   },
+   {
+    "slug": "1989-09-19-new-york-ny",
+    "date": "1989-09-19",
+    "venue": "A boat in New York harbor",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": "Dave Graham's birthday party",
+    "added": "2026-10-05T00:47:05Z"
+   },
+   {
+    "slug": "1994-12-01-paris-france",
+    "date": "1994-12-01",
+    "venue": "Elysée Montmartre",
+    "city": "Paris",
+    "state": "France",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-05T00:01:06Z"
+   },
+   {
+    "slug": "1994-11-28-rotterdam-netherlands",
+    "date": "1994-11-28",
+    "venue": "Nighttown",
+    "city": "Rotterdam",
+    "state": "Netherlands",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T23:39:48Z"
+   },
+   {
+    "slug": "1994-10-19-calgary-alberta",
+    "date": "1994-10-19",
+    "venue": "MacEwan Student Centre, University of Calgary",
+    "city": "Calgary",
+    "state": "Alberta",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T23:32:44Z"
+   },
+   {
+    "slug": "1994-11-27-tilburg-netherlands",
+    "date": "1994-11-27",
+    "venue": "Noorderligt",
+    "city": "Tilburg",
+    "state": "Netherlands",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T23:29:13Z"
+   },
+   {
+    "slug": "1994-04-12-bloomsburg-pa",
+    "date": "1994-04-12",
+    "venue": "Nelson Fieldhouse, Bloomsburg University",
+    "city": "Bloomsburg",
+    "state": "PA",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T22:56:11Z"
+   },
+   {
+    "slug": "1993-03-24-vail-co",
+    "date": "1993-03-24",
+    "venue": "John A. Dobson Arena",
+    "city": "Vail",
+    "state": "CO",
+    "country": null,
+    "eventName": null,
+    "added": "2026-10-04T22:56:11Z"
+   },
+   {
+    "slug": "1994-08-07-englewood-co",
+    "date": "1994-08-07",
+    "venue": "Fiddler's Green",
+    "city": "Englewood",
+    "state": "CO",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival",
+    "added": "2026-10-04T22:52:38Z"
+   },
    {
     "slug": "1992-05-12-colorado-springs-co",
     "date": "1992-05-12",
@@ -450,129 +570,18 @@
     "country": "US",
     "eventName": null,
     "added": "2026-10-03T04:22:31Z"
-   },
-   {
-    "slug": "2022-06-30-charlotte-nc",
-    "date": "2022-06-30",
-    "venue": "PNC Music Pavilion",
-    "city": "Charlotte",
-    "state": "NC",
-    "country": "US",
-    "eventName": null,
-    "added": "2026-10-03T04:17:56Z"
-   },
-   {
-    "slug": "2022-06-28-atlanta-ga",
-    "date": "2022-06-28",
-    "venue": "Cellairis Amphitheatre at Lakewood",
-    "city": "Atlanta",
-    "state": "GA",
-    "country": "US",
-    "eventName": null,
-    "added": "2026-10-03T04:16:57Z"
-   },
-   {
-    "slug": "2022-06-26-jacksonville-fl",
-    "date": "2022-06-26",
-    "venue": "Daily's Place Amphitheater",
-    "city": "Jacksonville",
-    "state": "FL",
-    "country": "US",
-    "eventName": null,
-    "added": "2026-10-03T04:13:08Z"
-   },
-   {
-    "slug": "2022-06-25-tampa-fl",
-    "date": "2022-06-25",
-    "venue": "MidFlorida Credit Union Amphitheatre",
-    "city": "Tampa",
-    "state": "FL",
-    "country": "US",
-    "eventName": null,
-    "added": "2026-10-03T04:09:17Z"
-   },
-   {
-    "slug": "2022-06-24-west-palm-beach-fl",
-    "date": "2022-06-24",
-    "venue": "iTHINK Financial Amphitheatre",
-    "city": "West Palm Beach",
-    "state": "FL",
-    "country": "US",
-    "eventName": null,
-    "added": "2026-10-03T04:06:13Z"
-   },
-   {
-    "slug": "2022-06-21-nashville-tn",
-    "date": "2022-06-21",
-    "venue": "Ascend Amphitheater",
-    "city": "Nashville",
-    "state": "TN",
-    "country": "US",
-    "eventName": null,
-    "added": "2026-10-03T03:28:36Z"
-   },
-   {
-    "slug": "2022-06-19-cincinnati-oh",
-    "date": "2022-06-19",
-    "venue": "Riverbend Music Center",
-    "city": "Cincinnati",
-    "state": "OH",
-    "country": null,
-    "eventName": null,
-    "added": "2026-10-03T03:25:01Z"
-   },
-   {
-    "slug": "2022-06-18-cuyahoga-falls-oh",
-    "date": "2022-06-18",
-    "venue": "Blossom Music Center",
-    "city": "Cuyahoga Falls",
-    "state": "OH",
-    "country": null,
-    "eventName": null,
-    "added": "2026-10-03T03:22:47Z"
-   },
-   {
-    "slug": "2022-06-17-burgettstown-pa",
-    "date": "2022-06-17",
-    "venue": "The Pavilion at Star Lake",
-    "city": "Burgettstown",
-    "state": "PA",
-    "country": "US",
-    "eventName": null,
-    "added": "2026-10-03T03:20:19Z"
-   },
-   {
-    "slug": "2008-02-18-indio-ca",
-    "date": "2008-02-18",
-    "venue": "Aladdin Concert Pavilion",
-    "city": "Indio",
-    "state": "CA",
-    "country": null,
-    "eventName": "Riverside County Fair",
-    "added": "2026-10-03T03:02:47Z"
-   },
-   {
-    "slug": "2000-10-03-san-francisco-ca",
-    "date": "2000-10-03",
-    "venue": "Hyatt Embarcadero",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": null,
-    "eventName": "CompTel Private Party",
-    "added": "2026-10-03T02:54:01Z"
-   },
-   {
-    "slug": "2026-07-11-vancouver-bc",
-    "date": "2026-07-11",
-    "venue": "Hastings Park",
-    "city": "Vancouver",
-    "state": "BC",
-    "country": "CA",
-    "eventName": null,
-    "added": "2026-10-01T11:21:03Z"
    }
   ],
   "shows": [
+   {
+    "slug": "1989-03-31-new-york-ny",
+    "date": "1989-03-31",
+    "venue": "Acme Underground",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": null
+   },
    {
     "slug": "1989-05-26-new-york-ny",
     "date": "1989-05-26",
@@ -581,6 +590,15 @@
     "state": "NY",
     "country": null,
     "eventName": null
+   },
+   {
+    "slug": "1989-09-19-new-york-ny",
+    "date": "1989-09-19",
+    "venue": "A boat in New York harbor",
+    "city": "New York",
+    "state": "NY",
+    "country": null,
+    "eventName": "Dave Graham's birthday party"
    },
    {
     "slug": "1989-10-29-ithaca-ny",
@@ -718,6 +736,33 @@
     "eventName": null
    },
    {
+    "slug": "1993-03-24-vail-co",
+    "date": "1993-03-24",
+    "venue": "John A. Dobson Arena",
+    "city": "Vail",
+    "state": "CO",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1994-04-12-bloomsburg-pa",
+    "date": "1994-04-12",
+    "venue": "Nelson Fieldhouse, Bloomsburg University",
+    "city": "Bloomsburg",
+    "state": "PA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1994-08-07-englewood-co",
+    "date": "1994-08-07",
+    "venue": "Fiddler's Green",
+    "city": "Englewood",
+    "state": "CO",
+    "country": null,
+    "eventName": "H.O.R.D.E. Festival"
+   },
+   {
     "slug": "1994-08-31-wantagh-ny",
     "date": "1994-08-31",
     "venue": "Jones Beach Amphitheater (Nikon)",
@@ -725,6 +770,51 @@
     "state": "NY",
     "country": null,
     "eventName": "H.O.R.D.E. Festival"
+   },
+   {
+    "slug": "1994-10-19-calgary-alberta",
+    "date": "1994-10-19",
+    "venue": "MacEwan Student Centre, University of Calgary",
+    "city": "Calgary",
+    "state": "Alberta",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1994-11-10-boston-ma",
+    "date": "1994-11-10",
+    "venue": "Orpheum Theatre",
+    "city": "Boston",
+    "state": "MA",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1994-11-27-tilburg-netherlands",
+    "date": "1994-11-27",
+    "venue": "Noorderligt",
+    "city": "Tilburg",
+    "state": "Netherlands",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1994-11-28-rotterdam-netherlands",
+    "date": "1994-11-28",
+    "venue": "Nighttown",
+    "city": "Rotterdam",
+    "state": "Netherlands",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "1994-12-01-paris-france",
+    "date": "1994-12-01",
+    "venue": "Elysée Montmartre",
+    "city": "Paris",
+    "state": "France",
+    "country": null,
+    "eventName": null
    },
    {
     "slug": "1995-03-04-london-england",
@@ -761,6 +851,15 @@
     "state": "AK",
     "country": null,
     "eventName": null
+   },
+   {
+    "slug": "1995-07-22-markham-ontario",
+    "date": "1995-07-22",
+    "venue": "Markham Fairgrounds",
+    "city": "Markham",
+    "state": "Ontario",
+    "country": null,
+    "eventName": "Another Roadside Attraction"
    },
    {
     "slug": "1996-07-20-austin-tx",
@@ -1263,6 +1362,15 @@
     "venue": "Rams Head Onstage",
     "city": "Annapolis",
     "state": "MD",
+    "country": null,
+    "eventName": null
+   },
+   {
+    "slug": "2013-09-14-buffalo-ny",
+    "date": "2013-09-14",
+    "venue": "Stampede Square",
+    "city": "Buffalo",
+    "state": "NY",
     "country": null,
     "eventName": null
    },
