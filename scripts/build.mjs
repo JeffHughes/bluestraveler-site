@@ -177,7 +177,7 @@ function clubFacts() {
 
 const clubBand = `<section class="club-band" aria-labelledby="bcc-h">
   <div class="wrap club-grid">
-    <img class="cat" src="assets/club/bcc-cat.png" alt="" width="148" height="148">
+    <img class="cat" src="assets/club/bt-black-cat.webp" alt="" width="148" height="148">
     <div>
       <div class="kick">The official archive and fan club</div>
       <h2 id="bcc-h">The Black Cat Club</h2>

@@ -106,7 +106,8 @@ section { padding-block: clamp(40px, 7vw, 88px); }
 .club-band { background: radial-gradient(1200px 500px at 85% 0%, rgba(201, 138, 59, .18), transparent 60%), var(--panel-2);
   border-block: 1px solid #3a2f26; }
 .club-grid { display: grid; gap: 28px; align-items: center; }
-.club-grid .cat { width: clamp(120px, 22vw, 260px); filter: drop-shadow(0 0 30px rgba(201, 138, 59, .25)); }
+/* Jeff 2026-10-05: the classic black cat, same size and spot, on a cream circle for contrast */
+.club-grid .cat { width: clamp(120px, 22vw, 260px); aspect-ratio: 1; box-sizing: border-box; padding: 11%; border-radius: 50%; background: #f1e6d6; object-fit: contain; filter: drop-shadow(0 0 30px rgba(201, 138, 59, .3)); }
 @media (min-width: 900px) { .club-grid { grid-template-columns: auto 1fr; gap: 56px; } }
 .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 24px; }
 .fact { background: rgba(0, 0, 0, .28); border: 1px solid #3a2f26; border-radius: 14px; padding: 16px 18px; }
