@@ -220,7 +220,7 @@ pages.push({
   <span class="credit">Photo: Graham Fielder</span>
   <div class="over">
     <h1 class="sr">Blues Traveler</h1>
-    <img class="logo" src="assets/band/logo.webp" alt="" width="1500" height="802">
+    <img class="logo blackcat" src="assets/band/logo-blackcat.webp" alt="" width="1500" height="802">
     <img class="est" src="assets/band/est-1987.webp" alt="Est. 1987, Princeton, NJ" width="1400" height="206">
     <div class="cta">
       <a class="btn" href="tour.html">Tour dates</a>
